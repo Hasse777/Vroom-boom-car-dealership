@@ -6,7 +6,7 @@
 
 ## 📘 ER-диаграмма базы данных
 
-![ER Diagram](schema.png)
+![ER Diagram](schema.PNG)
 
 ---
 
